@@ -1,0 +1,19 @@
+{
+  "dev": {
+    "CollectionName": [
+      "dev-example.domain.com"
+    ]
+  },
+
+  "test": {
+    "CollectionName": [
+      "test-example.domain.com"
+    ]
+  },
+
+  "prod": {
+    "CollectionName": [
+      "example.domain.com"
+    ]
+  }
+}

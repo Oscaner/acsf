@@ -1,0 +1,16 @@
+{
+  "username": "",
+  "password": "",
+  "dev": {
+    "EndpointV1": "https://www.dev-xxx.acsitefactory.com/api/v1",
+    "EndpointV2": "https://www.dev-xxx.acsitefactory.com/api/v2"
+  },
+  "test": {
+    "EndpointV1": "https://www.test-xxx.acsitefactory.com/api/v1",
+    "EndpointV2": "https://www.test-xxx.acsitefactory.com/api/v2"
+  },
+  "prod": {
+    "EndpointV1": "https://www.xxx.acsitefactory.com/api/v1",
+    "EndpointV2": "https://www.xxx.acsitefactory.com/api/v2"
+  }
+}
