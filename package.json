@@ -1,10 +1,13 @@
 {
   "name": "acsf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "engines": {
     "node": ">=7.6.0"
+  },
+  "bin": {
+    "acsf": "bin/acsf"
   },
   "dependencies": {
     "chalk": "^4.1.0",
